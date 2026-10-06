@@ -27,9 +27,9 @@ st.set_page_config(
 
 # IMPORTANT:
 # Replace this whenever your Colab/ngrok URL changes.
-MODEL_API_URL = "https://amplify-ivy-poster.ngrok-free.dev/generate"
+MODEL_API_URL = "YOUR_NGROK_API_URL"
 
-API_KEY = "ahmed772005"
+API_KEY = "YOUR_API_KEY_PASSWORD"
 
 
 # ============================================================
